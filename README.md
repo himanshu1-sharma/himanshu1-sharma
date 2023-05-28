@@ -1,4 +1,4 @@
-<img src="https://camo.githubusercontent.com/91d6686979e55b55016f048f5a96a32a9b166d286db80a2cb02adcce3cf9756d/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f30662f32352f65342f30663235653436363863316337373430623565643431383335333339643637662e676966" >
+
 
 <h1 align="center">Hi <img src="https://em-content.zobj.net/source/microsoft-teams/363/waving-hand_1f44b.png" width="40" height="40" />, I'm Himanshu Sharma</h1>
 <h3 align="center">A passionate Full Stack Developer from India ❤️</h3>
@@ -29,7 +29,9 @@
 
 <p align="left"> <a href="https://twitter.com/iamhimanshusha" target="blank"><img src="https://img.shields.io/twitter/follow/iamhimanshusha?logo=twitter&style=for-the-badge" alt="iamhimanshusha" /></a> </p>
 
-<br></br>
+
+
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
